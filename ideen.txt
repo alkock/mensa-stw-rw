@@ -15,3 +15,5 @@ https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Rostocker-Studierendenwerk
 - Trends in der Zukunft
 - Heatmaps, Preise
 
+Oder man vergleicht das ganze im größeren Stil mit Hamburg:
+https://github.com/HAWHHCalendarBot/mensa-data
